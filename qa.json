@@ -1,0 +1,5 @@
+[
+    { "question": "Are you a human?", "goodAnswer": "Yes", "badAnswer": "No"},
+    { "question": "Do you like memes?", "goodAnswer": "Ofcourse", "badAnswer": "What?"},
+    { "question": "Battlefield V will be a good game?", "goodAnswer": "No, it'll be sh*t", "badAnswer": "I'm developer in DICE" }
+]
